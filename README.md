@@ -1,7 +1,7 @@
 # CPP102 Week 1 Activity
 
 Name: Bueno, Abegail T.
-Section: 1 CPP - A
+Section: 1 CPE - A
 Course: CPP102 - Programming Logic and Design
 Activity Title: Introduction to python, Git, and GitHub.
 
